@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="app_name">Android Intent</string>
+    <string name="plus">+</string>
+    <string name="angkapertama">Masukkan Angka Pertama</string>
+    <string name="angkakedua">Masukkan Angka Kedua</string>
+    <string name="subtitle">Masukkan dua angka pada kolom</string>
+    <string name="_0"> </string>
+    <string name="hasil">Hasil</string>
+    <string name="minus">-</string>
+    <string name="clear">Bersihkan</string>
+    <string name="bagi">/</string>
+    <string name="kali">X</string>
+    <string name="action">Mahasiswa</string>
+    <string name="function">Kalkulator</string>
+    <string name="textView">Nama Mahasiswa</string>
+    <string name="send">Send</string>
+    <string name="welcome">Welcome</string>
+    <string name="userInput">Masukkan Nama Mahasiswa</string>>
 </resources>
